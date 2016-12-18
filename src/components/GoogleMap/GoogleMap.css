@@ -1,0 +1,10 @@
+.map {
+    height: 500px;
+    width: 800px;
+}
+
+@media screen and (min-width: 1024px){
+    .map {
+        height: 500px;
+    }
+}
