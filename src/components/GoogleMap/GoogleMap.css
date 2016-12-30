@@ -1,6 +1,7 @@
 .map {
+    display: none;
     height: 500px;
-    width: 800px;
+    width: 100%;
 }
 
 @media screen and (min-width: 1024px){

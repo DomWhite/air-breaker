@@ -1,0 +1,1163 @@
+{
+  "nextPage": "https://ws.homeaway.com/public/search?q=austin%20sleeps%206&page=2",
+  "pageSize": 20,
+  "pageCount": 23,
+  "page": 1,
+  "size": 460,
+  "refinements": [
+    {
+      "key": "regions_title",
+      "fieldName": "region",
+      "options": [
+        {
+          "url": "https://ws.homeaway.com/public/search?q=austin%20sleeps%206&refine=region:28768",
+          "count": 14,
+          "title": "Austin, Quebec"
+        },
+        {
+          "url": "https://ws.homeaway.com/public/search?q=austin%20sleeps%206&refine=region:6487",
+          "count": 446,
+          "title": "Austin, USA"
+        }
+      ]
+    },
+    {
+      "key": "bedrooms_title",
+      "fieldName": "Bedrooms",
+      "options": [
+        {
+          "url": "https://ws.homeaway.com/public/search?q=austin%20sleeps%206&refine=Bedrooms:Studio",
+          "count": 2,
+          "title": "Studio"
+        },
+        {
+          "url": "https://ws.homeaway.com/public/search?q=austin%20sleeps%206&refine=Bedrooms:1",
+          "count": 13,
+          "title": "1"
+        },
+        {
+          "url": "https://ws.homeaway.com/public/search?q=austin%20sleeps%206&refine=Bedrooms:2",
+          "count": 234,
+          "title": "2"
+        },
+        {
+          "url": "https://ws.homeaway.com/public/search?q=austin%20sleeps%206&refine=Bedrooms:3",
+          "count": 195,
+          "title": "3"
+        },
+        {
+          "url": "https://ws.homeaway.com/public/search?q=austin%20sleeps%206&refine=Bedrooms:4",
+          "count": 15,
+          "title": "4"
+        },
+        {
+          "url": "https://ws.homeaway.com/public/search?q=austin%20sleeps%206&refine=Bedrooms:5",
+          "count": 1,
+          "title": "5"
+        }
+      ]
+    },
+    {
+      "key": "sleeps_title",
+      "fieldName": "Sleeps",
+      "options": [
+        {
+          "url": "https://ws.homeaway.com/public/search?q=austin%20sleeps%206&refine=Sleeps:2",
+          "count": 460,
+          "title": "2+"
+        },
+        {
+          "url": "https://ws.homeaway.com/public/search?q=austin%20sleeps%206&refine=Sleeps:4",
+          "count": 460,
+          "title": "4+"
+        },
+        {
+          "url": "https://ws.homeaway.com/public/search?q=austin%20sleeps%206&refine=Sleeps:6",
+          "count": 460,
+          "title": "6+"
+        }
+      ]
+    },
+    {
+      "key": "bathrooms_title",
+      "fieldName": "Bathrooms",
+      "options": [
+        {
+          "url": "https://ws.homeaway.com/public/search?q=austin%20sleeps%206&refine=Bathrooms:1",
+          "count": 131,
+          "title": "1+"
+        },
+        {
+          "url": "https://ws.homeaway.com/public/search?q=austin%20sleeps%206&refine=Bathrooms:2",
+          "count": 294,
+          "title": "2+"
+        },
+        {
+          "url": "https://ws.homeaway.com/public/search?q=austin%20sleeps%206&refine=Bathrooms:3",
+          "count": 29,
+          "title": "3+"
+        },
+        {
+          "url": "https://ws.homeaway.com/public/search?q=austin%20sleeps%206&refine=Bathrooms:4",
+          "count": 6,
+          "title": "4+"
+        }
+      ]
+    }
+  ],
+  "entries": [
+    {
+      "listingId": "v962881",
+      "listingSource": "vrbo",
+      "headline": "Perfect Location! House in Trendy East Austin (2 blks to Lake, 5 blks to Rainey)",
+      "description": "Just finished total renovation!!! Two blocks from Lady Bird Lake/hike and bike trail, a short walk away from countless bars and restaurants including all of Rainey Street, Bufalina, La Barbecue, Cenote, Laundrette, Blue Owl Brewery, etc, and close...",
+      "accommodations": "2 BR, 2.0BA, Sleeps 6",
+      "minStayRange": {
+        "minStayHigh": 3,
+        "minStayLow": 2
+      },
+      "thumbnail": {
+        "height": 100,
+        "imageSize": "SMALL",
+        "secureUri": "https://imagesus-ssl.homeaway.com/mda01/e030a1d8-144d-4fa2-bd24-5702950cd7ad.1.1",
+        "uri": "http://imagesus.homeaway.co.uk/mda01/e030a1d8-144d-4fa2-bd24-5702950cd7ad.1.1",
+        "width": 133
+      },
+      "priceQuote": {
+        "amount": null,
+        "averageNightly": 339.01,
+        "currencyUnits": "GBP",
+        "fees": null,
+        "other": null,
+        "rent": null,
+        "tax": null
+      },
+      "priceRanges": [
+        {
+          "currencyUnits": "USD",
+          "from": 200,
+          "periodType": "NIGHTLY-WEEKDAY",
+          "to": 1600
+        }
+      ],
+      "location": {
+        "lat": 30.25718804,
+        "lng": -97.73023843,
+        "city": "Austin",
+        "state": "TX",
+        "country": "US"
+      },
+      "regionPath": "Texas Hill Country > Austin House #v962881",
+      "reviewCount": 0,
+      "reviewAverage": 0,
+      "bookWithConfidence": true,
+      "detailsUrl": "https://ws.homeaway.com/public/listing?id=v962881",
+      "bathrooms": 2,
+      "bedrooms": 2,
+      "listingUrl": "https://www.homeaway.co.uk/p962881vb?uni_id=1510836"
+    },
+    {
+      "listingId": "4290780",
+      "listingSource": "homeaway_us",
+      "headline": "Make Austin Your Home Away From Home!",
+      "description": "Whether you are in town for vacation, business or just coming for a weekend getaway to this great city looking for a comfortable place to call home for a weekend, a week, or a month? You have found it at this full time vacation rental. Super comfy...",
+      "accommodations": "2 BR, 2.0BA, Sleeps 6",
+      "minStayRange": {
+        "minStayHigh": 1,
+        "minStayLow": 1
+      },
+      "thumbnail": {
+        "height": 74,
+        "imageSize": "SMALL",
+        "secureUri": "https://imagesus-ssl.homeaway.com/mda01/f86a56be-1363-4f8b-8fc2-fb410c8c9de4.1.1",
+        "uri": "http://imagesus.homeaway.co.uk/mda01/f86a56be-1363-4f8b-8fc2-fb410c8c9de4.1.1",
+        "width": 133
+      },
+      "priceQuote": {
+        "amount": null,
+        "averageNightly": 186.41,
+        "currencyUnits": "GBP",
+        "fees": null,
+        "other": null,
+        "rent": null,
+        "tax": null
+      },
+      "priceRanges": [
+        {
+          "currencyUnits": "USD",
+          "from": 200,
+          "periodType": "NIGHTLY-WEEKDAY",
+          "to": 200
+        }
+      ],
+      "location": {
+        "lat": 30.19736178,
+        "lng": -97.80917858,
+        "city": "Austin",
+        "state": "TX",
+        "country": "US"
+      },
+      "regionPath": "Texas Hill Country > Austin House #4290780",
+      "reviewCount": 0,
+      "reviewAverage": 0,
+      "bookWithConfidence": true,
+      "detailsUrl": "https://ws.homeaway.com/public/listing?id=4290780",
+      "bathrooms": 2,
+      "bedrooms": 2,
+      "listingUrl": "https://www.homeaway.co.uk/p4290780?uni_id=4700039"
+    },
+    {
+      "listingId": "4328061",
+      "listingSource": "homeaway_us",
+      "headline": "Barton Hills Polished - Walking distance to SOCO!",
+      "description": "This 3 bed, 3 bath family home is located just minutes from the Austin Convention Center. Located in one of the most sought after neighborhoods for any festival, you will be right in the middle of all of the action while in a private home. If you ...",
+      "accommodations": "3 BR, 3.0BA, Sleeps 6",
+      "minStayRange": {
+        "minStayHigh": 4,
+        "minStayLow": 2
+      },
+      "thumbnail": {
+        "height": 100,
+        "imageSize": "SMALL",
+        "secureUri": "https://imagesus-ssl.homeaway.com/mda01/a2816a74-c0ba-4b86-b54f-451a1a31306a.1.1",
+        "uri": "http://imagesus.homeaway.co.uk/mda01/a2816a74-c0ba-4b86-b54f-451a1a31306a.1.1",
+        "width": 134
+      },
+      "priceQuote": {
+        "amount": null,
+        "averageNightly": 665.46,
+        "currencyUnits": "GBP",
+        "fees": null,
+        "other": null,
+        "rent": null,
+        "tax": null
+      },
+      "priceRanges": [
+        {
+          "currencyUnits": "USD",
+          "from": 600,
+          "periodType": "NIGHTLY-WEEKDAY",
+          "to": 1650
+        }
+      ],
+      "location": {
+        "lat": 30.252809,
+        "lng": -97.78269,
+        "city": "Austin",
+        "state": "TX",
+        "country": "US"
+      },
+      "regionPath": "Texas Hill Country > Austin House #4328061",
+      "reviewCount": 0,
+      "reviewAverage": 0,
+      "bookWithConfidence": true,
+      "detailsUrl": "https://ws.homeaway.com/public/listing?id=4328061",
+      "bathrooms": 3,
+      "bedrooms": 3,
+      "listingUrl": "https://www.homeaway.co.uk/p4328061?uni_id=4739338"
+    },
+    {
+      "listingId": "v316184",
+      "listingSource": "vrbo",
+      "headline": "Inside Loop Central North Area  UT/Downtown + Shopping Domain/Arbor/Allandale",
+      "description": "This home came into the VRBO program in 2010. Our guest love the location and amenities so much we have returning guests year after year. Families continue to come back for stays from two to four months because we work hard to make your trip relax...",
+      "accommodations": "3 BR, 2.0BA, Sleeps 6",
+      "minStayRange": {
+        "minStayHigh": 6,
+        "minStayLow": 3
+      },
+      "thumbnail": {
+        "height": 100,
+        "imageSize": "SMALL",
+        "secureUri": "https://imagesus-ssl.homeaway.com/mda01/989ac49f-b958-4faf-8a6d-c3f55068fa12.1.1",
+        "uri": "http://imagesus.homeaway.co.uk/mda01/989ac49f-b958-4faf-8a6d-c3f55068fa12.1.1",
+        "width": 133
+      },
+      "priceQuote": {
+        "amount": null,
+        "averageNightly": 126.11,
+        "currencyUnits": "GBP",
+        "fees": null,
+        "other": null,
+        "rent": null,
+        "tax": null
+      },
+      "priceRanges": [
+        {
+          "currencyUnits": "USD",
+          "from": 129.5,
+          "periodType": "NIGHTLY-WEEKDAY",
+          "to": 145
+        },
+        {
+          "currencyUnits": "USD",
+          "from": 840,
+          "periodType": "WEEKLY",
+          "to": 840
+        },
+        {
+          "currencyUnits": "USD",
+          "from": 2925,
+          "periodType": "MONTHLY",
+          "to": 2925
+        }
+      ],
+      "location": {
+        "lat": 30.36875343,
+        "lng": -97.73026276,
+        "city": "Austin",
+        "state": "TX",
+        "country": "US"
+      },
+      "regionPath": "Texas Hill Country > Austin House #v316184",
+      "reviewCount": 30,
+      "reviewAverage": 4.9615383,
+      "bookWithConfidence": true,
+      "detailsUrl": "https://ws.homeaway.com/public/listing?id=v316184",
+      "bathrooms": 2,
+      "bedrooms": 3,
+      "listingUrl": "https://www.homeaway.co.uk/p316184vb?uni_id=316184"
+    },
+    {
+      "listingId": "3849446",
+      "listingSource": "homeaway_us",
+      "headline": "3 Br/2.5 Ba Luxurious Townhouse In Soco /downtown Austin Icons Steps Away",
+      "description": "Perfect place for a team or group vising Austin or attending SXSW. Just off of Congress and a short 5 minutes to downtown.  Accommodates 6 adults very comfortably. Full kitchen and dining room to host casual meetings. Plenty of free parking and pu...",
+      "accommodations": "3 BR, 2.0BA, 1HF BA, Sleeps 6",
+      "minStayRange": {
+        "minStayHigh": 4,
+        "minStayLow": 4
+      },
+      "thumbnail": {
+        "height": 100,
+        "imageSize": "SMALL",
+        "secureUri": "https://imagesus-ssl.homeaway.com/mda01/05e92236-3a9e-4b4c-83b3-f48577e77a86.1.1",
+        "uri": "http://imagesus.homeaway.co.uk/mda01/05e92236-3a9e-4b4c-83b3-f48577e77a86.1.1",
+        "width": 133
+      },
+      "priceQuote": {
+        "amount": null,
+        "averageNightly": 363.89,
+        "currencyUnits": "GBP",
+        "fees": null,
+        "other": null,
+        "rent": null,
+        "tax": null
+      },
+      "priceRanges": [
+        {
+          "currencyUnits": "USD",
+          "from": 500,
+          "periodType": "NIGHTLY-WEEKDAY",
+          "to": 500
+        },
+        {
+          "currencyUnits": "USD",
+          "from": 3000,
+          "periodType": "WEEKLY",
+          "to": 3000
+        },
+        {
+          "currencyUnits": "USD",
+          "from": 5499.9866,
+          "periodType": "MONTHLY",
+          "to": 5499.9866
+        }
+      ],
+      "location": {
+        "lat": 30.235445,
+        "lng": -97.74778,
+        "city": "Austin",
+        "state": "TX",
+        "country": "US"
+      },
+      "regionPath": "Texas Hill Country > Austin Townhome #3849446",
+      "reviewCount": 0,
+      "reviewAverage": 0,
+      "bookWithConfidence": true,
+      "detailsUrl": "https://ws.homeaway.com/public/listing?id=3849446",
+      "bathrooms": 2,
+      "bedrooms": 3,
+      "listingUrl": "https://www.homeaway.co.uk/p3849446?uni_id=4222966"
+    },
+    {
+      "listingId": "v772789",
+      "listingSource": "vrbo",
+      "headline": "Five Minutes From Austin Airport, 10 Minutes To F1 Race Track!!",
+      "description": "This is a last minute listing for a wonderful family home just minutes from anywhere you want to be in Austin. We're the closest property available to The Circuit of The Americas Racetrack and even closer to the Airport. Downtown Austin nightlife ...",
+      "accommodations": "3 BR, 2.0BA, Sleeps 6",
+      "minStayRange": {
+        "minStayHigh": 2,
+        "minStayLow": 2
+      },
+      "thumbnail": {
+        "height": 70,
+        "imageSize": "SMALL",
+        "secureUri": "https://imagesus-ssl.homeaway.com/mda01/56b938d7-2f56-4ae6-8221-13370b0e4cee.1.1",
+        "uri": "http://imagesus.homeaway.co.uk/mda01/56b938d7-2f56-4ae6-8221-13370b0e4cee.1.1",
+        "width": 133
+      },
+      "priceQuote": {
+        "amount": null,
+        "averageNightly": 215.99,
+        "currencyUnits": "GBP",
+        "fees": null,
+        "other": null,
+        "rent": null,
+        "tax": null
+      },
+      "priceRanges": [
+        {
+          "currencyUnits": "USD",
+          "from": 350,
+          "periodType": "NIGHTLY-WEEKDAY",
+          "to": 350
+        },
+        {
+          "currencyUnits": "USD",
+          "from": 1500,
+          "periodType": "WEEKLY",
+          "to": 1500
+        },
+        {
+          "currencyUnits": "USD",
+          "from": 8000.0134,
+          "periodType": "MONTHLY",
+          "to": 8000.0134
+        }
+      ],
+      "location": {
+        "lat": 30.19804,
+        "lng": -97.696074,
+        "city": "Austin",
+        "state": "TX",
+        "country": "US"
+      },
+      "regionPath": "Texas Hill Country > Austin House #v772789",
+      "reviewCount": 2,
+      "reviewAverage": 5,
+      "bookWithConfidence": true,
+      "detailsUrl": "https://ws.homeaway.com/public/listing?id=v772789",
+      "bathrooms": 2,
+      "bedrooms": 3,
+      "listingUrl": "https://www.homeaway.co.uk/p772789vb?uni_id=1320727"
+    },
+    {
+      "listingId": "v869217",
+      "listingSource": "vrbo",
+      "headline": "Modern, Clean Home In Central Austin",
+      "description": "Great location, lots of restaurants and shopping, 5 miles to downtown Austin. Open floor plan, upgraded furniture, newly remodeled with hard wood floors and stainless steel appliances. Very large backyard with new cedar fence great for hanging out...",
+      "accommodations": "2 BR, 1.0BA, Sleeps 6",
+      "minStayRange": {
+        "minStayHigh": 3,
+        "minStayLow": 3
+      },
+      "thumbnail": {
+        "height": 100,
+        "imageSize": "SMALL",
+        "secureUri": "https://imagesus-ssl.homeaway.com/mda01/4dce0d96-01bd-41b9-a6e2-7b2511c518cb.1.1",
+        "uri": "http://imagesus.homeaway.co.uk/mda01/4dce0d96-01bd-41b9-a6e2-7b2511c518cb.1.1",
+        "width": 133
+      },
+      "priceQuote": {
+        "amount": null,
+        "averageNightly": 181.62,
+        "currencyUnits": "GBP",
+        "fees": null,
+        "other": null,
+        "rent": null,
+        "tax": null
+      },
+      "priceRanges": [
+        {
+          "currencyUnits": "USD",
+          "from": 195,
+          "periodType": "NIGHTLY-WEEKDAY",
+          "to": 195
+        }
+      ],
+      "location": {
+        "lat": 30.329689,
+        "lng": -97.754259,
+        "city": "Austin",
+        "state": "TX",
+        "country": "US"
+      },
+      "regionPath": "Texas Hill Country > Austin House #v869217",
+      "reviewCount": 0,
+      "reviewAverage": 0,
+      "bookWithConfidence": true,
+      "detailsUrl": "https://ws.homeaway.com/public/listing?id=v869217",
+      "bathrooms": 1,
+      "bedrooms": 2,
+      "listingUrl": "https://www.homeaway.co.uk/p869217vb?uni_id=1417156"
+    },
+    {
+      "listingId": "v819324",
+      "listingSource": "vrbo",
+      "headline": "Private & Renovated Gem - Located Minutes from Downtown Austin",
+      "description": "Revisit an 1960's Austin neighborhood in this Newly renovated and impeccably clean 3 bedroom, 2 bath home.  Located less than 5 minutes from Downtown Austin, this Contemporary remodeled home boasts a state-of-the art kitchen, a lighted bar in the ...",
+      "accommodations": "3 BR, 2.0BA, Sleeps 6",
+      "minStayRange": {
+        "minStayHigh": 3,
+        "minStayLow": 2
+      },
+      "thumbnail": {
+        "height": 84,
+        "imageSize": "SMALL",
+        "secureUri": "https://imagesus-ssl.homeaway.com/mda01/bea39d6e-8c18-4a8a-a979-a792d1536874.1.1",
+        "uri": "http://imagesus.homeaway.co.uk/mda01/bea39d6e-8c18-4a8a-a979-a792d1536874.1.1",
+        "width": 133
+      },
+      "priceQuote": {
+        "amount": null,
+        "averageNightly": 636.69,
+        "currencyUnits": "GBP",
+        "fees": null,
+        "other": null,
+        "rent": null,
+        "tax": null
+      },
+      "priceRanges": [
+        {
+          "currencyUnits": "USD",
+          "from": 595,
+          "periodType": "NIGHTLY-WEEKDAY",
+          "to": 695
+        }
+      ],
+      "location": {
+        "lat": 30.2269796,
+        "lng": -97.7311516,
+        "city": "Austin",
+        "state": "TX",
+        "country": "US"
+      },
+      "regionPath": "Texas Hill Country > Austin House #v819324",
+      "reviewCount": 0,
+      "reviewAverage": 0,
+      "bookWithConfidence": true,
+      "detailsUrl": "https://ws.homeaway.com/public/listing?id=v819324",
+      "bathrooms": 2,
+      "bedrooms": 3,
+      "listingUrl": "https://www.homeaway.co.uk/p819324vb?uni_id=1367262"
+    },
+    {
+      "listingId": "v503298",
+      "listingSource": "vrbo",
+      "headline": "New House!! (20 Minutes To Formula One / 10 Minutes To Down Town)",
+      "description": "The recently built 3-bedroom house features a modern open floor plan and furnishings that are just as new.  Your stay will include all of the amenities you would expect in a luxury hotel.  All linens and towels are brand new with every stay. \n\nIt ...",
+      "accommodations": "3 BR, 2.0BA, 1HF BA, Sleeps 6",
+      "minStayRange": {
+        "minStayHigh": 3,
+        "minStayLow": 2
+      },
+      "thumbnail": {
+        "height": 100,
+        "imageSize": "SMALL",
+        "secureUri": "https://imagesus-ssl.homeaway.com/mda01/1d0ad629-2852-4028-9ca8-62ef57c84aaf.1.1",
+        "uri": "http://imagesus.homeaway.co.uk/mda01/1d0ad629-2852-4028-9ca8-62ef57c84aaf.1.1",
+        "width": 133
+      },
+      "priceQuote": {
+        "amount": null,
+        "averageNightly": 424.08,
+        "currencyUnits": "GBP",
+        "fees": null,
+        "other": null,
+        "rent": null,
+        "tax": null
+      },
+      "priceRanges": [
+        {
+          "currencyUnits": "USD",
+          "from": 495,
+          "periodType": "NIGHTLY-WEEKDAY",
+          "to": 495
+        }
+      ],
+      "location": {
+        "lat": 30.211454,
+        "lng": -97.788267,
+        "city": "Austin",
+        "state": "TX",
+        "country": "US"
+      },
+      "regionPath": "Texas Hill Country > Austin House #v503298",
+      "reviewCount": 1,
+      "reviewAverage": 5,
+      "bookWithConfidence": true,
+      "detailsUrl": "https://ws.homeaway.com/public/listing?id=v503298",
+      "bathrooms": 2,
+      "bedrooms": 3,
+      "listingUrl": "https://www.homeaway.co.uk/p503298vb?uni_id=1086479"
+    },
+    {
+      "listingId": "4316253",
+      "listingSource": "homeaway_us",
+      "headline": "Hyde Park new craftsman 3 bed/2.5 bath home+garage+bikes - 30+days bookings only",
+      "description": "Picturesque corner, friendly front porch, hi-speed internet/TV, polished concrete and wood floors, ceiling fans, antique rugs, extra comfy beds (1 king, 1 queen, 2 twins), pac-n-play, and upstairs baby gate.  Remote control enclosed garage with bi...",
+      "accommodations": "3 BR, 2.0BA, 1HF BA, Sleeps 6",
+      "minStayRange": {
+        "minStayHigh": 30,
+        "minStayLow": 30
+      },
+      "thumbnail": {
+        "height": 100,
+        "imageSize": "SMALL",
+        "secureUri": "https://imagesus-ssl.homeaway.com/mda01/a0d68763-e299-463a-9c55-0a7005347631.1.1",
+        "uri": "http://imagesus.homeaway.co.uk/mda01/a0d68763-e299-463a-9c55-0a7005347631.1.1",
+        "width": 100
+      },
+      "priceQuote": {
+        "amount": null,
+        "averageNightly": 99.89,
+        "currencyUnits": "GBP",
+        "fees": null,
+        "other": null,
+        "rent": null,
+        "tax": null
+      },
+      "priceRanges": [
+        {
+          "currencyUnits": "USD",
+          "from": 3600,
+          "periodType": "MONTHLY",
+          "to": 3600
+        }
+      ],
+      "location": {
+        "lat": 30.31320762,
+        "lng": -97.72619989,
+        "city": "Austin",
+        "state": "TX",
+        "country": "US"
+      },
+      "regionPath": "Texas Hill Country > Austin House #4316253",
+      "reviewCount": 0,
+      "reviewAverage": 0,
+      "bookWithConfidence": true,
+      "detailsUrl": "https://ws.homeaway.com/public/listing?id=4316253",
+      "bathrooms": 2,
+      "bedrooms": 3,
+      "listingUrl": "https://www.homeaway.co.uk/p4316253?uni_id=4726752"
+    },
+    {
+      "listingId": "4355076",
+      "listingSource": "homeaway_us",
+      "headline": "Eastside Bungalow - perfect outdoor space!",
+      "description": "This house in East Austin is the perfect spot for young couples or small groups. A stone's throw away from Stay Gold and the famous Rainey Street, popular spots frequented by young Austin locals, you're sure to love your stay at this trendy home. ...",
+      "accommodations": "2 BR, 2.0BA, Sleeps 6",
+      "minStayRange": {
+        "minStayHigh": 4,
+        "minStayLow": 2
+      },
+      "thumbnail": {
+        "height": 74,
+        "imageSize": "SMALL",
+        "secureUri": "https://imagesus-ssl.homeaway.com/mda01/135c142e-3b6a-41d0-8563-515307ff79aa.1.1",
+        "uri": "http://imagesus.homeaway.co.uk/mda01/135c142e-3b6a-41d0-8563-515307ff79aa.1.1",
+        "width": 133
+      },
+      "priceQuote": {
+        "amount": null,
+        "averageNightly": 357.3,
+        "currencyUnits": "GBP",
+        "fees": null,
+        "other": null,
+        "rent": null,
+        "tax": null
+      },
+      "priceRanges": [
+        {
+          "currencyUnits": "USD",
+          "from": 150,
+          "periodType": "NIGHTLY-WEEKDAY",
+          "to": 1200
+        }
+      ],
+      "location": {
+        "lat": 30.251645,
+        "lng": -97.723115,
+        "city": "Austin",
+        "state": "TX",
+        "country": "US"
+      },
+      "regionPath": "Texas Hill Country > Austin House #4355076",
+      "reviewCount": 0,
+      "reviewAverage": 0,
+      "bookWithConfidence": true,
+      "detailsUrl": "https://ws.homeaway.com/public/listing?id=4355076",
+      "bathrooms": 2,
+      "bedrooms": 2,
+      "listingUrl": "https://www.homeaway.co.uk/p4355076?uni_id=4768855"
+    },
+    {
+      "listingId": "4155405",
+      "listingSource": "homeaway_us",
+      "headline": "Hidden Hill Country Oasis -15- 20 Minutes To Downtown Austin - Quiet Retreat",
+      "description": "Come and unwind in this peaceful country like setting that is convenient to everything Austin has to offer. This old ranch style home has been completely modernized throughout. Limestone patios in the front and back plus a pool. There are 3 bedroo...",
+      "accommodations": "3 BR, 3.0BA, Sleeps 6",
+      "minStayRange": {
+        "minStayHigh": 4,
+        "minStayLow": 1
+      },
+      "thumbnail": {
+        "height": 100,
+        "imageSize": "SMALL",
+        "secureUri": "https://imagesus-ssl.homeaway.com/mda01/d3ab8baf-dec7-48ba-92e9-255a07f5c8c9.1.1",
+        "uri": "http://imagesus.homeaway.co.uk/mda01/d3ab8baf-dec7-48ba-92e9-255a07f5c8c9.1.1",
+        "width": 134
+      },
+      "priceQuote": {
+        "amount": null,
+        "averageNightly": 550.33,
+        "currencyUnits": "GBP",
+        "fees": null,
+        "other": null,
+        "rent": null,
+        "tax": null
+      },
+      "priceRanges": [
+        {
+          "currencyUnits": "USD",
+          "from": 650,
+          "periodType": "NIGHTLY-WEEKDAY",
+          "to": 700
+        },
+        {
+          "currencyUnits": "USD",
+          "from": 4000,
+          "periodType": "WEEKLY",
+          "to": 4000
+        },
+        {
+          "currencyUnits": "USD",
+          "from": 15000,
+          "periodType": "MONTHLY",
+          "to": 15000
+        }
+      ],
+      "location": {
+        "lat": 30.130618,
+        "lng": -97.884171,
+        "city": "Manchaca",
+        "state": "TX",
+        "country": "US"
+      },
+      "regionPath": "Texas Hill Country > Austin House #4155405",
+      "reviewCount": 1,
+      "reviewAverage": 4,
+      "bookWithConfidence": true,
+      "detailsUrl": "https://ws.homeaway.com/public/listing?id=4155405",
+      "bathrooms": 3,
+      "bedrooms": 3,
+      "listingUrl": "https://www.homeaway.co.uk/p4155405?uni_id=4556863"
+    },
+    {
+      "listingId": "4351879",
+      "listingSource": "homeaway_us",
+      "headline": "Awesome 3 Bedroom House With Pool 5 Minutes From Downtown Austin",
+      "description": "Extensively renovated home in the heart of Travis Country. Brand new wood floors throughout the home. Brand new roof. Updated kitchen with granite counter tops. The entire house was completely re-painted and textured. Conveniently located 5 minute...",
+      "accommodations": "3 BR, 2.0BA, Sleeps 6",
+      "minStayRange": {
+        "minStayHigh": 120,
+        "minStayLow": 120
+      },
+      "thumbnail": {
+        "height": 100,
+        "imageSize": "SMALL",
+        "secureUri": "https://imagesus-ssl.homeaway.com/mda01/01e722c6-1012-4867-b2e0-bca718743eaa.1.1",
+        "uri": "http://imagesus.homeaway.co.uk/mda01/01e722c6-1012-4867-b2e0-bca718743eaa.1.1",
+        "width": 134
+      },
+      "priceRanges": [
+        {
+          "currencyUnits": "USD",
+          "from": 2100,
+          "periodType": "MONTHLY",
+          "to": 2100
+        }
+      ],
+      "location": {
+        "lat": 30.25041231,
+        "lng": -97.82846116,
+        "city": "Austin",
+        "state": "TX",
+        "country": "US"
+      },
+      "regionPath": "Texas Hill Country > Austin House #4351879",
+      "reviewCount": 0,
+      "reviewAverage": 0,
+      "bookWithConfidence": true,
+      "detailsUrl": "https://ws.homeaway.com/public/listing?id=4351879",
+      "bathrooms": 2,
+      "bedrooms": 3,
+      "listingUrl": "https://www.homeaway.co.uk/p4351879?uni_id=4765420"
+    },
+    {
+      "listingId": "3709269",
+      "listingSource": "homeaway_us",
+      "headline": "Awesome House Rental In The Heart Of Sxsw Pet/family Friendly 5 Min From Dwntwn",
+      "description": "This home, decorated in true Austin fashion, has 2 bedrooms and 1 bathroom (sleeps 6) !\nPet friendly\nFamily friendly\nFridge / Stove / Microwave / Coffee pot / Convection oven / washer and dryer\nDishware / silverware / glassware\nBasic condimen...",
+      "accommodations": "2 BR, 1.0BA, Sleeps 6",
+      "minStayRange": {
+        "minStayHigh": 3,
+        "minStayLow": 2
+      },
+      "thumbnail": {
+        "height": 100,
+        "imageSize": "SMALL",
+        "secureUri": "https://imagesus-ssl.homeaway.com/mda01/514968d7-ebf7-4988-964a-ccac2f2405dc.1.1",
+        "uri": "http://imagesus.homeaway.co.uk/mda01/514968d7-ebf7-4988-964a-ccac2f2405dc.1.1",
+        "width": 74
+      },
+      "priceRanges": [],
+      "location": {
+        "lat": 30.28261,
+        "lng": -97.767538,
+        "city": "Austin",
+        "state": "TX",
+        "country": "US"
+      },
+      "regionPath": "Texas Hill Country > Austin Bungalow #3709269",
+      "reviewCount": 0,
+      "reviewAverage": 0,
+      "bookWithConfidence": true,
+      "detailsUrl": "https://ws.homeaway.com/public/listing?id=3709269",
+      "bathrooms": 1,
+      "bedrooms": 2,
+      "listingUrl": "https://www.homeaway.co.uk/p3709269?uni_id=3723989"
+    },
+    {
+      "listingId": "3199690",
+      "listingSource": "homeaway_us",
+      "headline": "Schooner Cove Villas #18 - South Shore/Lakeway/Lake Travis Waterfront",
+      "description": "BY THE NIGHT OR THE WEEK  - The perfect vacation…you set the pace. Lose yourself in the majestic oaks, fresh air and rolling hills of the Texas Hill Country. It’s refreshing. It’s rejuvenating. And quiet…? Only if you want it to be! Downtown Austi...",
+      "accommodations": "2 BR, 2.0BA, Sleeps 6",
+      "minStayRange": {
+        "minStayHigh": 2,
+        "minStayLow": 2
+      },
+      "thumbnail": {
+        "height": 100,
+        "imageSize": "SMALL",
+        "secureUri": "https://imagesus-ssl.homeaway.com/mda01/b5262678-98da-4a1c-9384-b90740330148.1.1",
+        "uri": "http://imagesus.homeaway.co.uk/mda01/b5262678-98da-4a1c-9384-b90740330148.1.1",
+        "width": 133
+      },
+      "priceQuote": {
+        "amount": null,
+        "averageNightly": 168.36,
+        "currencyUnits": "GBP",
+        "fees": null,
+        "other": null,
+        "rent": null,
+        "tax": null
+      },
+      "priceRanges": [
+        {
+          "currencyUnits": "USD",
+          "from": 195,
+          "periodType": "NIGHTLY-WEEKDAY",
+          "to": 215
+        },
+        {
+          "currencyUnits": "USD",
+          "from": 1150,
+          "periodType": "WEEKLY",
+          "to": 1285
+        }
+      ],
+      "location": {
+        "lat": 30.37194443,
+        "lng": -97.98793793,
+        "city": "Lake Travis/Lakeway",
+        "state": "TX",
+        "country": "US"
+      },
+      "regionPath": "Lake Travis > Lakeway Condo #3199690",
+      "reviewCount": 0,
+      "reviewAverage": 0,
+      "bookWithConfidence": true,
+      "detailsUrl": "https://ws.homeaway.com/public/listing?id=3199690",
+      "bathrooms": 2,
+      "bedrooms": 2,
+      "listingUrl": "https://www.homeaway.co.uk/p3199690?uni_id=3396186"
+    },
+    {
+      "listingId": "3717008",
+      "listingSource": "homeaway_us",
+      "headline": "2 Bed 2 Bath Upscale Apartment (3.5 Miles / 6 Minutes) To Downtown",
+      "description": "Large 2 bedroom 2 bath that sleep 6. Austin metro line from location to downtown (line runs until 12:30 AM) and cab rides are less than $15/trip. Master bed has high quality queen bed with double vanity bathroom and large shower. Full size guest b...",
+      "accommodations": "2 BR, 2.0BA, Sleeps 6",
+      "minStayRange": {
+        "minStayHigh": 4,
+        "minStayLow": 2
+      },
+      "thumbnail": {
+        "height": 100,
+        "imageSize": "SMALL",
+        "secureUri": "https://imagesus-ssl.homeaway.com/mda01/5c578ccc-3e06-41f9-addf-e209d74db275.1.1",
+        "uri": "http://imagesus.homeaway.co.uk/mda01/5c578ccc-3e06-41f9-addf-e209d74db275.1.1",
+        "width": 133
+      },
+      "priceQuote": {
+        "amount": null,
+        "averageNightly": 317.86,
+        "currencyUnits": "GBP",
+        "fees": null,
+        "other": null,
+        "rent": null,
+        "tax": null
+      },
+      "priceRanges": [
+        {
+          "currencyUnits": "USD",
+          "from": 450,
+          "periodType": "NIGHTLY-WEEKDAY",
+          "to": 450
+        },
+        {
+          "currencyUnits": "USD",
+          "from": 2600,
+          "periodType": "WEEKLY",
+          "to": 2600
+        }
+      ],
+      "location": {
+        "lat": 30.2987941,
+        "lng": -97.7078015,
+        "city": "Austin",
+        "state": "TX",
+        "country": "US"
+      },
+      "regionPath": "Texas Hill Country > Austin Apartment #3717008",
+      "reviewCount": 0,
+      "reviewAverage": 0,
+      "bookWithConfidence": true,
+      "detailsUrl": "https://ws.homeaway.com/public/listing?id=3717008",
+      "bathrooms": 2,
+      "bedrooms": 2,
+      "listingUrl": "https://www.homeaway.co.uk/p3717008?uni_id=3731728"
+    },
+    {
+      "listingId": "3917761",
+      "listingSource": "homeaway_us",
+      "headline": "Beautiful 3br / 2.5 Ba Home Available For Sxsw!",
+      "description": "Our beautiful 3BR / 2 Ba home is available for the entirety of SXSW.  This fully-furnished 1700 sqft home can sleep up to 6 people comfortably and has all the amenities you are used to in your own place .  When you're not busy taking in all that A...",
+      "accommodations": "3 BR, 3.0BA, Sleeps 6",
+      "minStayRange": {
+        "minStayHigh": 2,
+        "minStayLow": 2
+      },
+      "thumbnail": {
+        "height": 100,
+        "imageSize": "SMALL",
+        "secureUri": "https://imagesus-ssl.homeaway.com/mda01/42089542-4939-4554-9600-d1f765afe10b.1.1",
+        "uri": "http://imagesus.homeaway.co.uk/mda01/42089542-4939-4554-9600-d1f765afe10b.1.1",
+        "width": 133
+      },
+      "priceQuote": {
+        "amount": null,
+        "averageNightly": 404.99,
+        "currencyUnits": "GBP",
+        "fees": null,
+        "other": null,
+        "rent": null,
+        "tax": null
+      },
+      "priceRanges": [
+        {
+          "currencyUnits": "USD",
+          "from": 500,
+          "periodType": "NIGHTLY-WEEKDAY",
+          "to": 500
+        }
+      ],
+      "location": {
+        "lat": 30.1749879,
+        "lng": -97.818509,
+        "city": "Austin",
+        "state": "TX",
+        "country": "US"
+      },
+      "regionPath": "Texas Hill Country > Austin House #3917761",
+      "reviewCount": 0,
+      "reviewAverage": 0,
+      "bookWithConfidence": true,
+      "detailsUrl": "https://ws.homeaway.com/public/listing?id=3917761",
+      "bathrooms": 3,
+      "bedrooms": 3,
+      "listingUrl": "https://www.homeaway.co.uk/p3917761?uni_id=4291281"
+    },
+    {
+      "listingId": "3199679",
+      "listingSource": "homeaway_us",
+      "headline": "Schooner Cove Villas #13 - South Shore/Lakeway/Lake Travis Waterfront",
+      "description": "BY THE NIGHT OR THE WEEK  - The perfect vacation…you set the pace. Lose yourself in the majestic oaks, fresh air and rolling hills of the Texas Hill Country. It’s refreshing. It’s rejuvenating. And quiet…? Only if you want it to be! Downtown Austi...",
+      "accommodations": "2 BR, 2.0BA, Sleeps 6",
+      "minStayRange": {
+        "minStayHigh": 2,
+        "minStayLow": 2
+      },
+      "thumbnail": {
+        "height": 100,
+        "imageSize": "SMALL",
+        "secureUri": "https://imagesus-ssl.homeaway.com/mda01/73a6a061-cebf-4f3f-af81-c302caa83815.1.1",
+        "uri": "http://imagesus.homeaway.co.uk/mda01/73a6a061-cebf-4f3f-af81-c302caa83815.1.1",
+        "width": 133
+      },
+      "priceQuote": {
+        "amount": null,
+        "averageNightly": 155.57,
+        "currencyUnits": "GBP",
+        "fees": null,
+        "other": null,
+        "rent": null,
+        "tax": null
+      },
+      "priceRanges": [
+        {
+          "currencyUnits": "USD",
+          "from": 195,
+          "periodType": "NIGHTLY-WEEKDAY",
+          "to": 215
+        },
+        {
+          "currencyUnits": "USD",
+          "from": 1150,
+          "periodType": "WEEKLY",
+          "to": 1285
+        }
+      ],
+      "location": {
+        "lat": 30.37194443,
+        "lng": -97.98793793,
+        "city": "Lake Travis/Lakeway",
+        "state": "TX",
+        "country": "US"
+      },
+      "regionPath": "Lake Travis > Lakeway Condo #3199679",
+      "reviewCount": 0,
+      "reviewAverage": 0,
+      "bookWithConfidence": true,
+      "detailsUrl": "https://ws.homeaway.com/public/listing?id=3199679",
+      "bathrooms": 2,
+      "bedrooms": 2,
+      "listingUrl": "https://www.homeaway.co.uk/p3199679?uni_id=3389796"
+    },
+    {
+      "listingId": "3720234",
+      "listingSource": "homeaway_us",
+      "headline": "Newly modern remodeled duplex, walking distance from downtown.  Quiet & safe",
+      "description": "Recently remodeled and fully furnished with top of the line appliances and fixtures including full size kitchen with dishwasher, refrigerator, and stove, also full size washer and dryer. Minutes from downtown. Fully stocked wine,beer coolers avail...",
+      "accommodations": "2 BR, 2.0BA, Sleeps 6",
+      "minStayRange": {
+        "minStayHigh": 2,
+        "minStayLow": 2
+      },
+      "thumbnail": {
+        "height": 100,
+        "imageSize": "SMALL",
+        "secureUri": "https://imagesus-ssl.homeaway.com/mda01/7352b3a5-5966-4de6-9a8c-d79bd61aa5af.1.1",
+        "uri": "http://imagesus.homeaway.co.uk/mda01/7352b3a5-5966-4de6-9a8c-d79bd61aa5af.1.1",
+        "width": 134
+      },
+      "priceQuote": {
+        "amount": null,
+        "averageNightly": 197.06,
+        "currencyUnits": "GBP",
+        "fees": null,
+        "other": null,
+        "rent": null,
+        "tax": null
+      },
+      "priceRanges": [
+        {
+          "currencyUnits": "USD",
+          "from": 300,
+          "periodType": "NIGHTLY-WEEKDAY",
+          "to": 300
+        },
+        {
+          "currencyUnits": "USD",
+          "from": 1600,
+          "periodType": "WEEKLY",
+          "to": 1600
+        },
+        {
+          "currencyUnits": "USD",
+          "from": 3249.9866,
+          "periodType": "MONTHLY",
+          "to": 3249.9866
+        }
+      ],
+      "location": {
+        "lat": 30.242547,
+        "lng": -97.732782,
+        "city": "Austin",
+        "state": "TX",
+        "country": "US"
+      },
+      "regionPath": "Texas Hill Country > Austin House #3720234",
+      "reviewCount": 13,
+      "reviewAverage": 4.923077,
+      "bookWithConfidence": true,
+      "detailsUrl": "https://ws.homeaway.com/public/listing?id=3720234",
+      "bathrooms": 2,
+      "bedrooms": 2,
+      "listingUrl": "https://www.homeaway.co.uk/p3720234?uni_id=3734955"
+    },
+    {
+      "listingId": "3923881",
+      "listingSource": "homeaway_us",
+      "headline": "Conteporary 3 Bedroom, 2.5 Bath - 2 miles south of downtown on 1st",
+      "description": "This stunning contemporary off South First Street exemplifies urban living! Windows throughout the entire main floor wrap around the layered outdoor living areas blending the outside to the inside. Dining area, living room with stand-alone firepla...",
+      "accommodations": "3 BR, 3.0BA, Sleeps 6",
+      "minStayRange": {
+        "minStayHigh": 5,
+        "minStayLow": 5
+      },
+      "thumbnail": {
+        "height": 100,
+        "imageSize": "SMALL",
+        "secureUri": "https://imagesus-ssl.homeaway.com/mda01/c84db21b-e734-4c80-b1cc-57c31f6354f2.1.1",
+        "uri": "http://imagesus.homeaway.co.uk/mda01/c84db21b-e734-4c80-b1cc-57c31f6354f2.1.1",
+        "width": 134
+      },
+      "priceQuote": {
+        "amount": null,
+        "averageNightly": 818.97,
+        "currencyUnits": "GBP",
+        "fees": null,
+        "other": null,
+        "rent": null,
+        "tax": null
+      },
+      "priceRanges": [
+        {
+          "currencyUnits": "USD",
+          "from": 1000,
+          "periodType": "NIGHTLY-WEEKDAY",
+          "to": 1000
+        }
+      ],
+      "location": {
+        "lat": 30.23313369,
+        "lng": -97.76816682,
+        "city": "Austin",
+        "state": "TX",
+        "country": "US"
+      },
+      "regionPath": "Texas Hill Country > Austin Townhome #3923881",
+      "reviewCount": 0,
+      "reviewAverage": 0,
+      "bookWithConfidence": true,
+      "detailsUrl": "https://ws.homeaway.com/public/listing?id=3923881",
+      "bathrooms": 3,
+      "bedrooms": 3,
+      "listingUrl": "https://www.homeaway.co.uk/p3923881?uni_id=4297401"
+    }
+  ]
+}

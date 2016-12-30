@@ -6,6 +6,10 @@ import './index.css';
 import { Provider } from 'react-redux';
 import store from './store/createStore';
 
+// Needed for onTouchTap
+import injectTapEventPlugin from 'react-tap-event-plugin';
+injectTapEventPlugin();
+
 ReactDOM.render(
     <Provider store={store}>
         <App />
