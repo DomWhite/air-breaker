@@ -10,6 +10,9 @@ let AUTH_TOKEN = '';
 export const FETCH_LISTINGS = 'FETCH_LISTINGS';
 
 export function fetchListings(city, numberOfPeople) {
+    // Check for auth token
+    // If token needed POST to AUTH_URL to obtain
+    // If token not needed, use bearer token in auth header and GET data from LISTING_URL
     const url = `${LISTING_URL}?q=${city} sleeps ${numberOfPeople}`;
     const request = axios.get(url);
 

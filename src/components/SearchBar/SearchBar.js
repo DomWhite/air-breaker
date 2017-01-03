@@ -1,5 +1,6 @@
 import React, { Component, PropTypes } from 'react';
 import { Field, reduxForm } from 'redux-form';
+import { bindActionCreators } from 'redux';
 import { fetchListings } from '../../actions/index';
 import getMuiTheme from 'material-ui/styles/getMuiTheme';
 import { TextField } from 'redux-form-material-ui';
